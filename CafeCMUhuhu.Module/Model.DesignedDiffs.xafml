@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="Cafe CMU">
+  <BOModel>
+    <Class Name="DevExpress.Persistent.BaseImpl.PermissionPolicy.PermissionPolicyUser" Caption="Base User" />
+  </BOModel>
+  <NavigationItems>
+    <Items>
+      <Item Id="@3f9e49af-59b7-43b4-9d51-850d7386e83b" Caption="Bao Cao" IsNewNode="True">
+        <Items IsNewNode="True">
+          <Item Id="@3776287a-fc6b-4b2b-a910-babc1a89efe7" Caption="Hoa Don" ViewId="HoaDon_ListView" IsNewNode="True" />
+          <Item Id="@595f4365-6c14-4102-9aff-b7367b970365" Caption="Dong Nhap" ViewId="DongNhap_ListView" IsNewNode="True" />
+          <Item Id="@6bcc8b56-52b8-412b-bf75-622077aaf8d4" Caption="Phieu Nhap" ViewId="PhieuNhap_ListView" IsNewNode="True" />
+          <Item Id="@708fe179-f0c3-4937-8ea6-241ec0f2e5df" Caption="Phieu Chi" ViewId="PhieuChi_ListView" IsNewNode="True" />
+          <Item Id="@bbd88347-419b-445f-98f0-12ac8d6e49f9" Caption="Tieu Hao" ViewId="TieuHao_ListView" IsNewNode="True" />
+          <Item Id="@d7ab234f-334a-4757-96f9-65d5f3d83cad" ViewId="BangLuong_ListView" IsNewNode="True" />
+        </Items>
+      </Item>
+      <Item Id="@5edbf3d0-11a7-4376-8c5a-0d7e7d209e69" Caption="Quản Lý" IsNewNode="True">
+        <Items IsNewNode="True">
+          <Item Id="@2c229275-c47f-46ab-801d-77ca44731494" Caption="Nhan Vien" ViewId="NhanVien_ListView" IsNewNode="True" />
+          <Item Id="@2d0b9a3b-4608-48c2-b6b0-7567789667a4" Caption="Khach Hang" ViewId="KhachHang_ListView" IsNewNode="True" />
+          <Item Id="@432ce98a-20f5-44e9-8987-c50c4dba2532" Caption="Ban" ViewId="Ban_ListView" IsNewNode="True" />
+          <Item Id="@77bf3b75-a2b2-4c9b-84bf-2aba3f55bc22" Caption="DinhLuong" ViewId="DinhLuong_ListView" IsNewNode="True" />
+          <Item Id="@92d76540-102d-4c13-aaa0-c0e383d74a03" Caption="Nha Cung Cap" ViewId="NhaCungCap_ListView" IsNewNode="True" />
+          <Item Id="@cba1afca-ff37-4876-96c4-a58c1f8a201f" Caption="Loai Hang" ViewId="LoaiHang_ListView" IsNewNode="True" />
+          <Item Id="@f5d950dd-a21d-491b-abaa-ea443c715d7f" Caption="SanPham" ViewId="SanPham_ListView" IsNewNode="True" />
+        </Items>
+      </Item>
+    </Items>
+  </NavigationItems>
+  <Options>
+    <LayoutManagerOptions RequiredFieldMark="*" />
+  </Options>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="24.1.7.0" IsNewNode="True" />
+  </SchemaModules>
+  <Views>
+    <ListView Id="ApplicationUser_ListView" Caption="Users" />
+    <ListView Id="SanPham_ListView" AllowEdit="True" />
+  </Views>
+</Application>

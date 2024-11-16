@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\CafeCMUhuhu\\CafeCMUhuhu.Blazor.Server\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\CafeCMUhuhu\\CafeCMUhuhu.Blazor.Server\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\CafeCMUhuhu\\CafeCMUhuhu.Blazor.Server\\wwwroot\\images\\Logo.svg",
+      "PackagePath": "staticwebassets\\images\\Logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\CafeCMUhuhu\\CafeCMUhuhu.Blazor.Server\\wwwroot\\images\\SplashScreen.svg",
+      "PackagePath": "staticwebassets\\images\\SplashScreen.svg"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.CafeCMUhuhu.Blazor.Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.CafeCMUhuhu.Blazor.Server.props",
+      "PackagePath": "build\\CafeCMUhuhu.Blazor.Server.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CafeCMUhuhu.Blazor.Server.props",
+      "PackagePath": "buildMultiTargeting\\CafeCMUhuhu.Blazor.Server.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.CafeCMUhuhu.Blazor.Server.props",
+      "PackagePath": "buildTransitive\\CafeCMUhuhu.Blazor.Server.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

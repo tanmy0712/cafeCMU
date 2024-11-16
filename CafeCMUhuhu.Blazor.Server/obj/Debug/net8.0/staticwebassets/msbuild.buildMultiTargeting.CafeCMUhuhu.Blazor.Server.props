@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CafeCMUhuhu.Blazor.Server.props" />
+</Project>

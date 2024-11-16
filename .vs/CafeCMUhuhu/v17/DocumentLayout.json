@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\CafeCMUhuhu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFAE5C2-8B65-4D4B-AE17-E1FD0E33B688}|CafeCMUhuhu.Blazor.Server\\CafeCMUhuhu.Blazor.Server.csproj|c:\\users\\admin\\source\\repos\\cafecmuhuhu\\cafecmuhuhu.blazor.server\\cafecmuhuhu.blazor.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2EFAE5C2-8B65-4D4B-AE17-E1FD0E33B688}|CafeCMUhuhu.Blazor.Server\\CafeCMUhuhu.Blazor.Server.csproj|solutionrelative:cafecmuhuhu.blazor.server\\cafecmuhuhu.blazor.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFAE5C2-8B65-4D4B-AE17-E1FD0E33B688}|CafeCMUhuhu.Blazor.Server\\CafeCMUhuhu.Blazor.Server.csproj|c:\\users\\admin\\source\\repos\\cafecmuhuhu\\cafecmuhuhu.blazor.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2EFAE5C2-8B65-4D4B-AE17-E1FD0E33B688}|CafeCMUhuhu.Blazor.Server\\CafeCMUhuhu.Blazor.Server.csproj|solutionrelative:cafecmuhuhu.blazor.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFAE5C2-8B65-4D4B-AE17-E1FD0E33B688}|CafeCMUhuhu.Blazor.Server\\CafeCMUhuhu.Blazor.Server.csproj|c:\\users\\admin\\source\\repos\\cafecmuhuhu\\cafecmuhuhu.blazor.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2EFAE5C2-8B65-4D4B-AE17-E1FD0E33B688}|CafeCMUhuhu.Blazor.Server\\CafeCMUhuhu.Blazor.Server.csproj|solutionrelative:cafecmuhuhu.blazor.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA67A871-467D-4A04-B5CB-9CFC209B8870}|CafeCMUhuhu.Module\\CafeCMUhuhu.Module.csproj|c:\\users\\admin\\source\\repos\\cafecmuhuhu\\cafecmuhuhu.module\\businessobjects\\ormdatamodel1.xpo||{1923C09A-77B4-41C5-9C55-B8BC33E1A6D3}|",
+      "RelativeMoniker": "D:0:0:{EA67A871-467D-4A04-B5CB-9CFC209B8870}|CafeCMUhuhu.Module\\CafeCMUhuhu.Module.csproj|solutionrelative:cafecmuhuhu.module\\businessobjects\\ormdatamodel1.xpo||{1923C09A-77B4-41C5-9C55-B8BC33E1A6D3}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA67A871-467D-4A04-B5CB-9CFC209B8870}|CafeCMUhuhu.Module\\CafeCMUhuhu.Module.csproj|c:\\users\\admin\\source\\repos\\cafecmuhuhu\\cafecmuhuhu.module\\model.designeddiffs.xafml||{4DD02038-D78C-4AD3-8B8D-13FC109B2DCD}",
+      "RelativeMoniker": "D:0:0:{EA67A871-467D-4A04-B5CB-9CFC209B8870}|CafeCMUhuhu.Module\\CafeCMUhuhu.Module.csproj|solutionrelative:cafecmuhuhu.module\\model.designeddiffs.xafml||{4DD02038-D78C-4AD3-8B8D-13FC109B2DCD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA67A871-467D-4A04-B5CB-9CFC209B8870}|CafeCMUhuhu.Module\\CafeCMUhuhu.Module.csproj|c:\\users\\admin\\source\\repos\\cafecmuhuhu\\cafecmuhuhu.module\\businessobjects\\ormdatamodel1code\\phieunhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA67A871-467D-4A04-B5CB-9CFC209B8870}|CafeCMUhuhu.Module\\CafeCMUhuhu.Module.csproj|solutionrelative:cafecmuhuhu.module\\businessobjects\\ormdatamodel1code\\phieunhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA67A871-467D-4A04-B5CB-9CFC209B8870}|CafeCMUhuhu.Module\\CafeCMUhuhu.Module.csproj|c:\\users\\admin\\source\\repos\\cafecmuhuhu\\cafecmuhuhu.module\\businessobjects\\ormdatamodel1code\\tieuhao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA67A871-467D-4A04-B5CB-9CFC209B8870}|CafeCMUhuhu.Module\\CafeCMUhuhu.Module.csproj|solutionrelative:cafecmuhuhu.module\\businessobjects\\ormdatamodel1code\\tieuhao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA67A871-467D-4A04-B5CB-9CFC209B8870}|CafeCMUhuhu.Module\\CafeCMUhuhu.Module.csproj|c:\\users\\admin\\source\\repos\\cafecmuhuhu\\cafecmuhuhu.module\\businessobjects\\ormdatamodel1code\\hoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA67A871-467D-4A04-B5CB-9CFC209B8870}|CafeCMUhuhu.Module\\CafeCMUhuhu.Module.csproj|solutionrelative:cafecmuhuhu.module\\businessobjects\\ormdatamodel1code\\hoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA67A871-467D-4A04-B5CB-9CFC209B8870}|CafeCMUhuhu.Module\\CafeCMUhuhu.Module.csproj|c:\\users\\admin\\source\\repos\\cafecmuhuhu\\cafecmuhuhu.module\\businessobjects\\ormdatamodel1code\\dongnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA67A871-467D-4A04-B5CB-9CFC209B8870}|CafeCMUhuhu.Module\\CafeCMUhuhu.Module.csproj|solutionrelative:cafecmuhuhu.module\\businessobjects\\ormdatamodel1code\\dongnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA67A871-467D-4A04-B5CB-9CFC209B8870}|CafeCMUhuhu.Module\\CafeCMUhuhu.Module.csproj|c:\\users\\admin\\source\\repos\\cafecmuhuhu\\cafecmuhuhu.module\\businessobjects\\ormdatamodel1code\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA67A871-467D-4A04-B5CB-9CFC209B8870}|CafeCMUhuhu.Module\\CafeCMUhuhu.Module.csproj|solutionrelative:cafecmuhuhu.module\\businessobjects\\ormdatamodel1code\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA67A871-467D-4A04-B5CB-9CFC209B8870}|CafeCMUhuhu.Module\\CafeCMUhuhu.Module.csproj|c:\\users\\admin\\source\\repos\\cafecmuhuhu\\cafecmuhuhu.module\\businessobjects\\ormdatamodel1code\\sanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA67A871-467D-4A04-B5CB-9CFC209B8870}|CafeCMUhuhu.Module\\CafeCMUhuhu.Module.csproj|solutionrelative:cafecmuhuhu.module\\businessobjects\\ormdatamodel1code\\sanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA67A871-467D-4A04-B5CB-9CFC209B8870}|CafeCMUhuhu.Module\\CafeCMUhuhu.Module.csproj|c:\\users\\admin\\source\\repos\\cafecmuhuhu\\cafecmuhuhu.module\\businessobjects\\ormdatamodel1code\\phieuchi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA67A871-467D-4A04-B5CB-9CFC209B8870}|CafeCMUhuhu.Module\\CafeCMUhuhu.Module.csproj|solutionrelative:cafecmuhuhu.module\\businessobjects\\ormdatamodel1code\\phieuchi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA67A871-467D-4A04-B5CB-9CFC209B8870}|CafeCMUhuhu.Module\\CafeCMUhuhu.Module.csproj|c:\\users\\admin\\source\\repos\\cafecmuhuhu\\cafecmuhuhu.module\\businessobjects\\ormdatamodel1code\\loaihang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA67A871-467D-4A04-B5CB-9CFC209B8870}|CafeCMUhuhu.Module\\CafeCMUhuhu.Module.csproj|solutionrelative:cafecmuhuhu.module\\businessobjects\\ormdatamodel1code\\loaihang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA67A871-467D-4A04-B5CB-9CFC209B8870}|CafeCMUhuhu.Module\\CafeCMUhuhu.Module.csproj|c:\\users\\admin\\source\\repos\\cafecmuhuhu\\cafecmuhuhu.module\\businessobjects\\ormdatamodel1code\\loaihang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA67A871-467D-4A04-B5CB-9CFC209B8870}|CafeCMUhuhu.Module\\CafeCMUhuhu.Module.csproj|solutionrelative:cafecmuhuhu.module\\businessobjects\\ormdatamodel1code\\loaihang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA67A871-467D-4A04-B5CB-9CFC209B8870}|CafeCMUhuhu.Module\\CafeCMUhuhu.Module.csproj|c:\\users\\admin\\source\\repos\\cafecmuhuhu\\cafecmuhuhu.module\\businessobjects\\ormdatamodel1code\\khachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA67A871-467D-4A04-B5CB-9CFC209B8870}|CafeCMUhuhu.Module\\CafeCMUhuhu.Module.csproj|solutionrelative:cafecmuhuhu.module\\businessobjects\\ormdatamodel1code\\khachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA67A871-467D-4A04-B5CB-9CFC209B8870}|CafeCMUhuhu.Module\\CafeCMUhuhu.Module.csproj|c:\\users\\admin\\source\\repos\\cafecmuhuhu\\cafecmuhuhu.module\\businessobjects\\ormdatamodel1code\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA67A871-467D-4A04-B5CB-9CFC209B8870}|CafeCMUhuhu.Module\\CafeCMUhuhu.Module.csproj|solutionrelative:cafecmuhuhu.module\\businessobjects\\ormdatamodel1code\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CafeCMUhuhu.Blazor.Server",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CafeCMUhuhu\\CafeCMUhuhu.Blazor.Server\\CafeCMUhuhu.Blazor.Server.csproj",
+              "RelativeDocumentMoniker": "CafeCMUhuhu.Blazor.Server\\CafeCMUhuhu.Blazor.Server.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CafeCMUhuhu\\CafeCMUhuhu.Blazor.Server\\CafeCMUhuhu.Blazor.Server.csproj",
+              "RelativeToolTip": "CafeCMUhuhu.Blazor.Server\\CafeCMUhuhu.Blazor.Server.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-16T16:35:30.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CafeCMUhuhu\\CafeCMUhuhu.Blazor.Server\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CafeCMUhuhu.Blazor.Server\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CafeCMUhuhu\\CafeCMUhuhu.Blazor.Server\\appsettings.Development.json",
+              "RelativeToolTip": "CafeCMUhuhu.Blazor.Server\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-16T16:10:31.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CafeCMUhuhu\\CafeCMUhuhu.Blazor.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "CafeCMUhuhu.Blazor.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CafeCMUhuhu\\CafeCMUhuhu.Blazor.Server\\appsettings.json",
+              "RelativeToolTip": "CafeCMUhuhu.Blazor.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-16T16:10:30.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ORMDataModel1.xpo",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CafeCMUhuhu\\CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1.xpo",
+              "RelativeDocumentMoniker": "CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1.xpo",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CafeCMUhuhu\\CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1.xpo",
+              "RelativeToolTip": "CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1.xpo",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJqSURBVDhPdVJNSFRRFD73OU0/E\u002BNoheVQYeYiF2XrKbLGTURQ4SbFAlcSBgUWEYK4rShlCAIhojZFrhIZyxwIF8FoibtARspotFLHQXR87773bt\u002B584Yx1A8\u002B3jnnnXPud869gooQjT0TkcpwRdx11W6lFLmKiL8KxkJmhfpvHvMjT\u002BbTAfz0eaa49DB56vD\u002BsnjzmYqA32d44TzeT2Rp\u002BNcimyVgsYEQgjPF5QefT1eF98Zbzh4M7NpmkA\u002B6CvyA4sHxJcrldN16xRrcwKioDA/U1B4KfP0rKDmraHxO0cRvRZN/FA2MLeoxVtcszt\u002B8gbTdoAvTcoksh8jGzA7s2nJB1yIhsJRa68OF/P\u002BgG1iWTdJRKFYkUWw5QjdDL0rP3aGpVAP9SF\u002Bhu311yx3P6kZ0pQdeoliTti5gBx89O3avb2FmOknd7T2wJbmuRV2x\u002B\u002Be4sAC9RBMKbBen4kiJ01mFCdtBTEpF86tfaCrzklLZ1/D5iCLyI5jcQIHcgEfgL/aBgISxLNNouKrJ/nqwarUGBW/fjPLDgEyIh3QXI\u002By4UGXtCR5d6I3FD8DFGPyyaChfWgQ/jgBY6jEEloHlbLe0daJK5/AViqbWe\u002Bxr5exvuFcP4lbvyQRS6lmO46hPsduTDde7a4YLMRexV92pqJe/ASXtT06o\u002BZWkSi\u002BPqBuPjvOpO5u7qtV0pl99W3ihrnYe4ZifZWwGQ2KTM9kEXuZjMnmraMqx70ujNDbbR6apb2PLEXyNHdVDjuNGLRSZOTvx8Xn6YqRp3zvDEFFeaDC0PTH49Of5LXcA8g3phwayBBtkxetiJP8BQng4q1OFyewAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-11-16T16:06:53.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DongNhap.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CafeCMUhuhu\\CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\DongNhap.Designer.cs",
+              "RelativeDocumentMoniker": "CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\DongNhap.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CafeCMUhuhu\\CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\DongNhap.Designer.cs",
+              "RelativeToolTip": "CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\DongNhap.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAArwCwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:00:34.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HoaDon.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CafeCMUhuhu\\CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\HoaDon.Designer.cs",
+              "RelativeDocumentMoniker": "CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\HoaDon.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CafeCMUhuhu\\CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\HoaDon.Designer.cs",
+              "RelativeToolTip": "CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\HoaDon.Designer.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAWwEEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:44:55.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TieuHao.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CafeCMUhuhu\\CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\TieuHao.cs",
+              "RelativeDocumentMoniker": "CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\TieuHao.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CafeCMUhuhu\\CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\TieuHao.cs",
+              "RelativeToolTip": "CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\TieuHao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:21:03.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PhieuNhap.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CafeCMUhuhu\\CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\PhieuNhap.Designer.cs",
+              "RelativeDocumentMoniker": "CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\PhieuNhap.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CafeCMUhuhu\\CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\PhieuNhap.Designer.cs",
+              "RelativeToolTip": "CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\PhieuNhap.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:41:37.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CafeCMUhuhu\\CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\SanPham.cs",
+              "RelativeDocumentMoniker": "CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\SanPham.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CafeCMUhuhu\\CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\SanPham.cs",
+              "RelativeToolTip": "CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\SanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T12:57:38.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model.DesignedDiffs.xafml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CafeCMUhuhu\\CafeCMUhuhu.Module\\Model.DesignedDiffs.xafml",
+              "RelativeDocumentMoniker": "CafeCMUhuhu.Module\\Model.DesignedDiffs.xafml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CafeCMUhuhu\\CafeCMUhuhu.Module\\Model.DesignedDiffs.xafml",
+              "RelativeToolTip": "CafeCMUhuhu.Module\\Model.DesignedDiffs.xafml",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALTSURBVDhPpZNbSFRRFIb/fS6eOaM52jgy1lhqmdpINyIogih7qB566KGCxMaXQrAeeqoIKhGCgkCQoh6KwoKaqMxCNIioTBCyi6Y1FU05jtNlbI7j3M5tt0eHwOqpPticzd5r/XutxX/wX1BKM7t/h2S\u002BM6B0RzHik9ughT0gYgiS4wwkvosQr5oJ\u002BcUMAXpxb4mxXtlKXL4DnKbOh84q5NkFxyMeyHl4n3Me/VFqvKon7ZHpDCZAWzZJyMqtQVypx2R0rW5L2M0VSVFcIoDMIkh9A4YGVDzTVYSXWie4HOljnlBwRSQWb73c7if09IbHiEXXwtCZHAeYbMGEVjCOH9UC7o/H4V8ugBbL4DUDVKNIT06WrQHZnN1KAo2LaZEzG5yQrtWEHlUwPGbiibwOI2vqEJk9iFnl55DnGIMo57JHRPACRWgwhQFvvJ/07qo07VaOOAstCCopPDLdeOneg4nSmnSL4A22zE\u002BQbedhX9gBSU7C16Vi6G4CZop/QPo81TFeT1nVRAw3XB6EtjRBtvAgiamCpkh3li47EW6DHjsIX2cKECkKC5xXOSJZA4auQ\u002BA5xFUNYd8wzHEFosiGL7A4K9PRo3jffRVv73UjFeXBZQGGqWKuY947zlZWsYfLznsDU4MtGUZyPIixwV4oo37Wq8kEn6P/UhM\u002B99xhM5iEoWnQVQNlrsq2Mlf52SkfDJ/YXWL4X5y5FS3d/KCyARJT5wQJekLBSF8HqK6BmlY43CHkz3k\u002BkRNZdFxf5Wjxbvcav4w0dqo2\u002B7ZaVXtdXXaWpwaxWKyIjLxmFfSB8AIzpobV6wo7F1QFDzXXXX\u002BZSfvTynWtT/d\u002B//7tpMFJuYmvH/BlqIedEjjy829t2rhy35EGz\u002Bh05DRp18zgcuOac\u002B5ix1Y5ixtKplQQAs1dseBwUbV95\u002B/Jaf76M6XZf6G3PPjB18wrH29eaz12LXP8G8BPoRwphdwLay4AAAAASUVORK5CYII=",
+              "WhenOpened": "2024-11-16T08:24:58.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SanPham.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CafeCMUhuhu\\CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\SanPham.Designer.cs",
+              "RelativeDocumentMoniker": "CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\SanPham.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CafeCMUhuhu\\CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\SanPham.Designer.cs",
+              "RelativeToolTip": "CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\SanPham.Designer.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAWwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:40:39.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoaiHang.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CafeCMUhuhu\\CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\LoaiHang.Designer.cs",
+              "RelativeDocumentMoniker": "CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\LoaiHang.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CafeCMUhuhu\\CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\LoaiHang.Designer.cs",
+              "RelativeToolTip": "CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\LoaiHang.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:23:01.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CafeCMUhuhu\\CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\KhachHang.cs",
+              "RelativeDocumentMoniker": "CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\KhachHang.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CafeCMUhuhu\\CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\KhachHang.cs",
+              "RelativeToolTip": "CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\KhachHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:24:59.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "KhachHang.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CafeCMUhuhu\\CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\KhachHang.Designer.cs",
+              "RelativeDocumentMoniker": "CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\KhachHang.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CafeCMUhuhu\\CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\KhachHang.Designer.cs",
+              "RelativeToolTip": "CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\KhachHang.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:32:01.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoaiHang.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CafeCMUhuhu\\CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\LoaiHang.cs",
+              "RelativeDocumentMoniker": "CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\LoaiHang.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CafeCMUhuhu\\CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\LoaiHang.cs",
+              "RelativeToolTip": "CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\LoaiHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:40:51.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PhieuChi.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CafeCMUhuhu\\CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\PhieuChi.Designer.cs",
+              "RelativeDocumentMoniker": "CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\PhieuChi.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CafeCMUhuhu\\CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\PhieuChi.Designer.cs",
+              "RelativeToolTip": "CafeCMUhuhu.Module\\BusinessObjects\\ORMDataModel1Code\\PhieuChi.Designer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:41:08.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

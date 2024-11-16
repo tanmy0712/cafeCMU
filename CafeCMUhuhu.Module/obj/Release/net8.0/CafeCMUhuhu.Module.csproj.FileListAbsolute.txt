@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\CafeCMUhuhu\CafeCMUhuhu.Module\bin\Release\net8.0\CafeCMUhuhu.Module.deps.json
+C:\Users\Admin\source\repos\CafeCMUhuhu\CafeCMUhuhu.Module\bin\Release\net8.0\CafeCMUhuhu.Module.dll
+C:\Users\Admin\source\repos\CafeCMUhuhu\CafeCMUhuhu.Module\bin\Release\net8.0\CafeCMUhuhu.Module.pdb
+C:\Users\Admin\source\repos\CafeCMUhuhu\CafeCMUhuhu.Module\obj\Release\net8.0\CafeCMUhuhu.Module.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CafeCMUhuhu\CafeCMUhuhu.Module\obj\Release\net8.0\CafeCMUhuhu.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CafeCMUhuhu\CafeCMUhuhu.Module\obj\Release\net8.0\CafeCMUhuhu.Module.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CafeCMUhuhu\CafeCMUhuhu.Module\obj\Release\net8.0\CafeCMUhuhu.Module.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CafeCMUhuhu\CafeCMUhuhu.Module\obj\Release\net8.0\CafeCMUhuhu.Module.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CafeCMUhuhu\CafeCMUhuhu.Module\obj\Release\net8.0\CafeCMUhuhu.Module.dll
+C:\Users\Admin\source\repos\CafeCMUhuhu\CafeCMUhuhu.Module\obj\Release\net8.0\refint\CafeCMUhuhu.Module.dll
+C:\Users\Admin\source\repos\CafeCMUhuhu\CafeCMUhuhu.Module\obj\Release\net8.0\CafeCMUhuhu.Module.pdb
+C:\Users\Admin\source\repos\CafeCMUhuhu\CafeCMUhuhu.Module\obj\Release\net8.0\ref\CafeCMUhuhu.Module.dll

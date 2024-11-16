@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CafeCMUhuhu.Module", "CafeCMUhuhu.Module\CafeCMUhuhu.Module.csproj", "{EA67A871-467D-4A04-B5CB-9CFC209B8870}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CafeCMUhuhu.Blazor.Server", "CafeCMUhuhu.Blazor.Server\CafeCMUhuhu.Blazor.Server.csproj", "{2EFAE5C2-8B65-4D4B-AE17-E1FD0E33B688}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		EasyTest|Any CPU = EasyTest|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA67A871-467D-4A04-B5CB-9CFC209B8870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA67A871-467D-4A04-B5CB-9CFC209B8870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA67A871-467D-4A04-B5CB-9CFC209B8870}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{EA67A871-467D-4A04-B5CB-9CFC209B8870}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{EA67A871-467D-4A04-B5CB-9CFC209B8870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA67A871-467D-4A04-B5CB-9CFC209B8870}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EFAE5C2-8B65-4D4B-AE17-E1FD0E33B688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EFAE5C2-8B65-4D4B-AE17-E1FD0E33B688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EFAE5C2-8B65-4D4B-AE17-E1FD0E33B688}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{2EFAE5C2-8B65-4D4B-AE17-E1FD0E33B688}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{2EFAE5C2-8B65-4D4B-AE17-E1FD0E33B688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EFAE5C2-8B65-4D4B-AE17-E1FD0E33B688}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D4F8835-EEA1-4A62-BD8F-82C4A209531D}
+	EndGlobalSection
+EndGlobal
